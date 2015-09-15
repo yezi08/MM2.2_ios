@@ -25,7 +25,7 @@
 	display:none !important;
 }
 
-.pane .list li a[title=Language], li a[title="Front page"], li a[title="My files"], a[title="Participants"], a[title="Notes"]{
+.pane .list li a[title=Language], li a[title="Front page"], li a[title="My files"], a[title="Participants"], a[title="Notes"], a[title="Add a new note"], a[title="View course report"]{
 display:none !important;
 }
 /****/
